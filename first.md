@@ -1,8 +1,4 @@
- layout:  page
 
- title:  "first"
- 
-permalink:  /first/
 
 ### 米迦尔
 
