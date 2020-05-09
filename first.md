@@ -1,3 +1,3 @@
-layout: page
-title: "first"
-permalink: /first/
+layout:  page
+title:  "first"
+permalink:  /first/
