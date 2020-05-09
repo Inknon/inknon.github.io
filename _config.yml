@@ -1,3 +1,19 @@
 theme: jekyll-theme-slate
 title: 验证番号
 description: inknon's blog
+links1:
+  - name: 所有
+    url: /
+    type: recent
+    external: false
+  - name: 同人
+    url: /tongren/
+    type: tongren
+    external: false
+  - name: 随笔
+    url: /suibi/
+    type: suibi
+    external: false
+blog_1: recent
+blog_2: tongren
+blog_3: suibi
